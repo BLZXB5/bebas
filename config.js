@@ -15,10 +15,10 @@ gc1 = 'bit.ly/officialgrupkanaobot'
 gc2 = ''
 gc3 = ''
 global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.owner = ['628317436733'] // Put your number here //owner eval
+global.kontak = ['628317436733'] //Ketika ada yang ngetik #owner
+global.mods = ['628317436733'] // Want some help?
+global.prems = ['628317436733'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -32,7 +32,7 @@ global.APIs = { // API Prefix
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  // 'https://website': 'apikey' (apikey kalian)
+  'https://zeks.me/': 'TY3yMCf3EzKDKfxbCvQACQGAXs1' (apikey kalian)
   'https://api.xteam.xyz': '057f32b5931c3bce',
   'https://api.lolhuman.xyz': 'RFK-Rey',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
@@ -44,24 +44,24 @@ global.APIKeys = { // APIKey Here
 lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
-//xteam     KYURABOT
-namaig = 'bit.ly/instagramkyura'
-namagithub = 'bit.ly/githubkyura'
+//xteam     Miyuki
+namaig = 'bit.ly/instagramdxv_54'
+namagithub = 'bit.ly/githubBLZXB5'
 kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namakontak1 = 'Miyuki'
+namakontak2 = 'BLZB5'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.packname = 'From Miyuki-chan' // ganti aja
+global.author = 'MiyukiBOT' // ganti aja
 
 //yyy
-bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+bc = 'MiyukiBOT' //RFK Broadcast
+footer = '\n©Miyuki'
+namabot = 'MiyukjBOT'
+namalu = 'BLZXB5'
 
 
 // 
